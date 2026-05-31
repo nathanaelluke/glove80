@@ -1,3 +1,3 @@
 my glove80 config
 
-![](./images/my_keymap.png)
+![](./images/keymap.png)
