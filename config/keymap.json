@@ -2,10 +2,10 @@
   "keyboard": "glove80",
   "firmware_api_version": "1",
   "locale": "en-US",
-  "uuid": "9f7d8183-572e-4f61-83b5-5708b8a75cca",
-  "parent_uuid": "9f7d8183-572e-4f61-83b5-5708b8a75cca",
+  "uuid": "6a0ab92a-5f42-4e6a-86a0-42b1585b5cd0",
+  "parent_uuid": "6a0ab92a-5f42-4e6a-86a0-42b1585b5cd0",
   "unlisted": false,
-  "date": 1780256177,
+  "date": 1780257113,
   "creator": "mr_rogers",
   "title": "The One",
   "notes": "",
@@ -105,7 +105,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "EQUAL"
+            "value": "F11"
           }
         ]
       },
@@ -193,7 +193,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "MINUS"
+            "value": "F12"
           }
         ]
       },
@@ -551,7 +551,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "F11"
+            "value": "MINUS"
           }
         ]
       },
@@ -559,7 +559,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "F12"
+            "value": "EQUAL"
           }
         ]
       },
